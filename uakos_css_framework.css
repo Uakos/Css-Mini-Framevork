@@ -1,0 +1,121 @@
+/* Mini Css Framework by Uakos (Maxim Ostasevskyy) */
+/* Last Update 11.05.2019 */
+/* Framework based on flexbox */
+
+
+/* Fonts */
+
+/* Roboto */
+.roboto{font-family:'Roboto'}
+
+.open_sans{font-family: 'Open Sans'}
+
+/* --------------------------------- */
+
+/* Main component */
+.fl_main{display:flex}
+
+/* --------------------------------- */
+
+/* Flex Directions */
+/* Row */
+.fl_row{flex-direction:row}
+
+/* Row Reverce */
+.fl_row_reverse{flex-direction:row-reverse}
+
+/* --------------------------------- */
+
+/* Colum */
+.fl_col{flex-direction:column}
+
+/* Colum Reverse */
+.fl_col_reverse{flex-direction:column-reverse}
+
+/* --------------------------------- */
+
+/* Flex Wrap Wrap */
+.fl_wrap{flex-wrap:wrap}
+
+/* Flex Wrap Nowrap */
+.fl_nowrap{flex-wrap:nowrap}
+
+/* --------------------------------- */
+
+/* Flex Align */
+/* Justufy Content Flex Start */
+.fl_jcontect_start{justify-content:flex-start}
+
+/* Justufy Content Flex End*/
+.fl_jcontect_end{justify-content:flex-end}
+
+/* Justufy Content Space Around*/
+.fl_jcontect_around{justify-content:space-around}
+
+/* Justufy Content Space Between*/
+.fl_jcontect_between{justify-content:space-between}
+
+/* Justufy Content Center */
+.fl_jcontect_center{justify-content:center}
+
+/* --------------------------------- */
+
+/* Align Items Start */
+.fl_aitem_start{align-items:flex-start}
+
+/* Align Items End */
+.fl_aitem_end{align-items:flex-end}
+
+/* Align Items Center */
+.fl_aitem_center{align-items:center}
+
+/* Align Items BaseLine */
+.fl_aitem_baseline{align-items:baseline}
+
+/* Align Items Stretch */
+.fl_aitem_stretch{align-items:stretch}
+
+/* --------------------------------- */
+
+/* Align Content Start */
+.fl_acontent_start{align-content:flex-start}
+
+/* Align Content End */
+.fl_acontent_end{align-content:flex-end}
+
+/* Align Content Center */
+.fl_acontent_end{align-content:center}
+
+/* Align Content Space Between */
+.fl_acontent_between{align-content:space-between}
+
+/* Align Content Space Around */
+.fl_acontent_around{align-content:space-around}
+
+/* Align Content Space Eventy */
+.fl_acontent_evenly{align-content:space-evenly}
+
+/* Align Content Stretch */
+.fl_acontent_stretch{align-content:stretch}
+
+/* --------------------------------- */
+
+/* Paddings */
+
+/* Padding Bottom 10px*/
+.pb_7{padding-bottom:7px}
+
+/* Padding Bottom 10px*/
+.pb_10{padding-bottom:10px}
+
+/* Padding Bottom 20px*/
+.pb_20{padding-bottom:20px}
+
+/* Padding Bottom 30px*/
+.pb_30{padding-bottom:30px}
+
+/* Padding Bottom 40px*/
+.pb_40{padding-bottom:40px}
+
+/* Padding Bottom 50px*/
+.pb_50{padding-bottom:50px}
